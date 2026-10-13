@@ -29,5 +29,4 @@ This repository contains my completed DevOps Lab exercises.
 - Jenkins
 - Python (Flask, unittest)
 
-## Author
-Suchit K S
+
