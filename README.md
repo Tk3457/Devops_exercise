@@ -56,4 +56,4 @@ The exact prerequisites vary by exercise. Docker, Minikube, kubectl, Jenkins, an
 
 ## Author
 
-Maintained by **Rohan Kumar** as a practical DevOps learning portfolio.
+Maintained by **Tejas Kumar** as a practical DevOps learning portfolio.
